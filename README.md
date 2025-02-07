@@ -10,7 +10,7 @@ ChatGPT یک اپلیکیشن چت هوش مصنوعی پیشرفته است ک�
 
 ## 📸 اسکرین‌شات‌ها
 <p align="center">
-  <img src="./screen1.pngg" alt="home" width="300" />  
+  <img src="./screen1.png" alt="home" width="300" />  
   <p/>
 
 
