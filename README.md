@@ -1,4 +1,4 @@
-# ChatGPT  
+# AI CHAT  
 
 ---  
 
